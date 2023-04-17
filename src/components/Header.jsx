@@ -1,0 +1,16 @@
+
+
+const Header = () => {
+
+
+  return (
+  
+      <p className="font-black text-5xl text-center md:w-2/3 mx-auto">
+        Seguimiento Pacientes {''}
+        <span className="text-cyan-500">Britanico</span>
+      </p>
+    
+  )
+}
+
+export default Header
